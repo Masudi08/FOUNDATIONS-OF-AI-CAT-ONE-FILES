@@ -85,7 +85,7 @@ def bfs(graph, start, goal):
     return None
 
 
-# ── Entry point ──────────────────────────────────────────
+# ── Entry point ─────────────────────────────────────────
 if __name__ == "__main__":
     START = 'A'
     GOAL  = 'G'
